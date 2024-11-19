@@ -1,3 +1,3 @@
-**Follow along with the linked article.
-Submit your HTML and CSS files here.**
+**Follow along with the linked article.**
+
 https://css-tricks.com/solved-with-css-dropdown-menus/?authuser=1
